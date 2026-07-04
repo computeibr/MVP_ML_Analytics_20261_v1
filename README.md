@@ -1,20 +1,9 @@
-MVP — Machine Learning & Analytics
-Nome: Leonardo Valério Rodrigues Pires
-Matrícula: 4052025000144
-Data: 04/07/2026
-Dataset: El Niño Data Set — TAO Project (UCI Machine Learning Repository) — https://archive.ics.uci.edu/dataset/122/el+nino
-Tipo de problema: Regressão
-
-
 # MVP — Machine Learning & Analytics
 
 MVP da Sprint de Machine Learning & Analytics da Pós-graduação em Ciência de
 Dados e Analytics (PUC-Rio).
 
 **Autor:** Leonardo Valério Rodrigues Pires
-**Matrícula:** 4052025000144
-**Data última revisão e publicação do Github:** 04/07/2026
-
 
 ## O problema
 
@@ -37,8 +26,11 @@ análise crítica — está documentado no notebook.
 
 ## Como executar
 
-1. Abra o notebook no Google Colab: [`MVP_ML_Analytics.ipynb`](./MVP_ML_Analytics.ipynb)
-2. Execute do início ao fim (`Ambiente de execução → Reiniciar e executar tudo`).
+**Notebook no Google Colab:**
+https://colab.research.google.com/drive/1Kq29itUva76Z2a4jUkuWAjCEloXl39sI?usp=sharing
+
+Abra o link acima e execute do início ao fim
+(`Ambiente de execução → Reiniciar e executar tudo`).
 
 Não há dependências a instalar (apenas bibliotecas pré-instaladas no Colab)
 nem necessidade de upload ou autenticação: o dataset é carregado diretamente
@@ -49,7 +41,7 @@ deste repositório via URL raw. Tempo total de execução: ~10 min em CPU
 
 | Arquivo | Descrição |
 |---|---|
-| `MVP_ML_Analytics.ipynb` | Notebook completo do MVP |
+| `MVP_ML_Analytics.ipynb` | Notebook completo do MVP (cópia do Colab acima) |
 | `elnino.csv` | Dataset em CSV — conversão direta do arquivo original do UCI (nomes de colunas conforme `tao-all2.col`; valores "." convertidos para nulos; nenhuma linha removida ou alterada) |
 | `README.md` | Este arquivo |
 
