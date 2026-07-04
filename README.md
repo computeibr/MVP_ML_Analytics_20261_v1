@@ -3,7 +3,13 @@
 MVP da Sprint de Machine Learning & Analytics da Pós-graduação em Ciência de
 Dados e Analytics (PUC-Rio).
 
-**Autor:** Leonardo Valério Rodrigues Pires
+**Nome:** _Leonardo Valério Rodrigues Pires_  
+**Matrícula:** _4052025000144_  
+**Data:** _04/07/2026_  
+**Dataset:** _El Niño Data Set — TAO Project (UCI Machine Learning Repository) — https://archive.ics.uci.edu/dataset/122/el+nino_  
+**Tipo de problema:** _Regressão_  
+
+---
 
 ## O problema
 
